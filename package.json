@@ -9,8 +9,5 @@
   "author": "",
   "license": "ISC",
    "dependencies": {
-    "request": "^2.88.2",
-     "url": "^0.11.0",
-     "querystring": "^0.2.1"
   }
 }
